@@ -1,0 +1,7 @@
+# Ignore temporary files
+*.class
+*.pyc
+*.log
+node_modules/
+bin/
+obj/
